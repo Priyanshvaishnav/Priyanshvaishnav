@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Priyanshvaishnav
-- 👀 I’m interested in ... sports
-- 🌱 I’m currently learning ...c programming
+- 👀 I’m interested in ... sports , music 
+- 🌱 I’m currently learning ...c programming , Java , web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
