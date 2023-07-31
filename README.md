@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Priyanshvaishnav
 - 👀 I’m interested in ... sports , music 
-- 🌱 I’m currently learning ...c programming , Java , web development
+- 🌱 I’m currently learning ...c programming , Java, Python , Machine Learing
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me:- priyanshvaishnav23@gmail.com
 
 <!---
 Priyanshvaishnav/Priyanshvaishnav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
