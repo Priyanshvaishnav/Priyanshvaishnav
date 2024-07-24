@@ -37,18 +37,3 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a deep int
 - **Data Science & ML:** 
   - ![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
----
-
-## 📈 **GitHub Stats:**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
-
-## 🚀 **Current Projects:**
-- **[Project Name 1](https://github.com/yourusername/project1)**: A brief description of what this project does and the technologies used.
-- **[Project Name 2](https://github.com/yourusername/project2)**: A brief description of what this project does and the technologies used.
-
-Feel free to explore my repositories and get in touch if you have any questions or would like to collaborate on a project. Thanks for visiting!
-
----
