@@ -7,13 +7,22 @@ I'm a Software Engineer with a strong interest in building reliable, scalable, a
 My engineering interests sit at the intersection of **backend development, distributed systems, cloud infrastructure, DevOps, databases, and AI-enabled software**. I enjoy not only using technologies, but also understanding what happens underneath them and experimenting with building simplified versions from scratch.
 
 ---
+## 👨‍💻 About Me
 
-## 🌟 **About Me:**
-- 🔭 Currently exploring opportunities to work on exciting projects and new technologies.
-- 🌱 Actively learning about DevOps, AI/ML, and cutting-edge tech trends.
-- 💬 Open to collaboration and discussion about tech, programming, and anything in between.
-- 📫 Feel free to reach out via [Email](mailto:priyanshvaishnav23@gmail.com)
+- 💻 Software Engineer focused on **Backend Engineering, Microservices, Cloud & DevOps**
+- ☕ Building backend services with **Java, Spring Boot, Node.js, and Python**
+- 🧩 Interested in **Microservices, REST, GraphQL, System Design, and Distributed Systems**
+- 🔄 Exploring **Kafka, CDC, Debezium, Event-Driven Architecture, and the Outbox Pattern**
+- ☁️ Working with **Docker, Kubernetes, Helm, Terraform, AWS, and GCP**
+- 🔧 Building and improving **CI/CD and DevOps automation**
+- 🗄️ Exploring **databases, storage engines, caching, indexing, and search systems**
+- 🔎 Learning more about **Elasticsearch and how search/indexing systems work internally**
+- ⚡ Exploring **Redis and building simplified systems from scratch**
+- 🤖 Exploring **AI/ML and AI-assisted software engineering**
+- 🧠 Interested in understanding the engineering trade-offs behind modern infrastructure
+- 🚀 I learn best by **building, breaking, debugging, and rebuilding**
 
+---
 
 ---
 
