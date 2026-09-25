@@ -1,6 +1,12 @@
-# Hello, I'm Priyansh Vaishnav 👋
+# Hi, I'm Priyansh Vaishnav 👋
 
-Welcome to my GitHub profile! I'm a passionate software engineer with a deep interest in both development and operations. My goal is to leverage technology to build impactful solutions and continuously learn and grow in the field.
+### Software Engineer | Backend • Distributed Systems • Cloud • DevOps
+
+I'm a Software Engineer with a strong interest in building reliable, scalable, and production-ready systems.
+
+My engineering interests sit at the intersection of **backend development, distributed systems, cloud infrastructure, DevOps, databases, and AI-enabled software**. I enjoy not only using technologies, but also understanding what happens underneath them and experimenting with building simplified versions from scratch.
+
+---
 
 ## 🌟 **About Me:**
 - 🔭 Currently exploring opportunities to work on exciting projects and new technologies.
