@@ -65,10 +65,6 @@ I build reliable, scalable, production-ready systems. My interests sit where **b
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Priyanshvaishnav&show_icons=true&hide_border=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshvaishnav&layout=compact&hide_border=true" alt="Top languages">
-</p>
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=Priyanshvaishnav&hide_border=true" alt="GitHub streak">
 </p>
 
