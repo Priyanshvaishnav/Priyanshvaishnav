@@ -21,7 +21,6 @@ I build reliable, scalable, production-ready systems. My interests sit where **b
 - 🧭 Worked on **topology-aware routing** to improve traffic locality between microservices
 - 🚧 Now driving the **end-to-end migration of a microservice**: application changes, Kubernetes config, networking and deployment validation
 
-**Before Calix:** Intern at **VoyaSim Travel Services** (Jan – Mar 2025), where I deployed a travel booking platform on AWS: backend on EC2 with Docker and IAM, frontend on S3 + CloudFront with HTTPS, DNS on Route 53, and SNS alerts for deployment events.
 
 ## 👨‍💻 About me
 
