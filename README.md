@@ -1,8 +1,10 @@
 <h1 align="center">Hi, I'm Priyansh Vaishnav 👋</h1>
 <h3 align="center">Software Engineer · Backend · Distributed Systems · Cloud · DevOps</h3>
 <p align="center">🏢 Currently working at <b>Calix</b> as a Graduate Trainee (R&D) · Bengaluru, India</p>
+<p align="center">🌐 <a href="https://portfolio-priyansh.vercel.app"><b>portfolio-priyansh.vercel.app</b></a></p>
 
 <p align="center">
+  <a href="https://portfolio-priyansh.vercel.app"><img src="https://img.shields.io/badge/Portfolio-22D3EE?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/priyansh-vaishnav-732529223/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:priyanshvaishnav23@proton.me"><img src="https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"></a>
   <a href="https://x.com/Priyanshv17"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
