@@ -17,12 +17,7 @@ I build reliable, scalable, production-ready systems. My interests sit where **b
 
 **Graduate Trainee (R&D)** · Calix, CIDC Pvt Ltd · Bengaluru · 2025 – present
 
-- 🐛 Resolved **65+ issues** across Java and Spring Boot microservices by tracing application flows, logs and service dependencies to fix root causes, not symptoms
-- ☁️ Contributed to the **AWS-to-GCP migration** of microservices: service dependencies, deployment configs, Kubernetes resources and environment-specific behaviour
-- 🔄 Implemented a **CDC-based outbox pattern** that reliably propagates database changes to **Kafka**, closing the consistency gap between DB writes and event publication
-- 🧭 Worked on **topology-aware routing** to improve traffic locality between microservices
-- 🚧 Now driving the **end-to-end migration of a microservice**: application changes, Kubernetes config, networking and deployment validation
-
+Backend engineering on a platform of Java and Spring Boot microservices. Most of the work is understanding how a request travels through many small services, and why it sometimes goes wrong. Alongside that, I've helped move services from AWS to GCP, set up an outbox pattern so database changes reliably show up as Kafka events, and worked on routing traffic to nearby instances. Right now I'm moving a microservice across end to end, from the code changes to Kubernetes and networking.
 
 ## 👨‍💻 About me
 
