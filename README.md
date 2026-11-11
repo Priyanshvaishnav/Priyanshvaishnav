@@ -74,6 +74,7 @@ Backend engineering on a platform of Java and Spring Boot microservices. Most of
 
 | Project | What it is | Stack |
 | --- | --- | --- |
+| [KoraDB](https://github.com/Priyanshvaishnav/DatabaseKora) | A relational database engine I wrote from scratch to understand how databases work: its own SQL parser and planner, B+ tree indexes, write-ahead logging with crash recovery, MVCC and replication | Java 21, JDBC, Docker, Kubernetes |
 | **SymptomSense** | Full-stack app deployed on a Kubernetes (KIND) cluster on AWS EC2, with containerised components and Kubernetes resources for scaling and service communication | React, Node.js, Supabase, Docker, Kubernetes, AWS |
 | [Enigmus](https://github.com/Priyanshvaishnav/Enigmus) · [live](https://enigmus.vercel.app) | Puzzle platform with a Jenkins + Docker CI/CD pipeline to Kubernetes, SonarQube, Trivy and OWASP security checks, and Prometheus + Grafana monitoring | Terraform, AWS, Jenkins, Docker, Kubernetes |
 | [DockCrafter](https://github.com/Priyanshvaishnav/DockCrafter) | GenAI-powered AI agent | Python, GenAI |
