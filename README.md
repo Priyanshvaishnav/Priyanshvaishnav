@@ -17,13 +17,11 @@ I build reliable, scalable, production-ready systems. My interests sit where **b
 
 **Graduate Trainee (R&D)** · Calix, CIDC Pvt Ltd · Bengaluru · 2025 – present
 
-Backend engineering on a platform of Java and Spring Boot microservices. Most of the work is understanding how a request travels through many small services, and why it sometimes goes wrong. Alongside that, I've helped move services from AWS to GCP, set up an outbox pattern so database changes reliably show up as Kafka events, and worked on routing traffic to nearby instances. Right now I'm moving a microservice across end to end, from the code changes to Kubernetes and networking.
-
 ## 👨‍💻 About me
 
 - ☕ Building backend services with **Java, Spring Boot and Python**
 - 🧩 Into **microservices, REST, GraphQL, system design and distributed systems**
-- 🔄 Exploring **Kafka, CDC with Debezium, event-driven architecture and the outbox pattern**
+- 🔄 Exploring **Kafka and event-driven architecture**
 - ☁️ Working with **Docker, Kubernetes, Helm, Argo CD, AWS and GCP**, and automating CI/CD
 - 🗄️ Digging into **storage engines, caching, indexing and search**: Redis and Elasticsearch internals
 - 🤖 Exploring **AI/ML and AI-assisted software engineering**
